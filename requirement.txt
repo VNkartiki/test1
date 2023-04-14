@@ -1,0 +1,5 @@
+this is chat appliaction
+emoji
+type option
+color
+vibrate
