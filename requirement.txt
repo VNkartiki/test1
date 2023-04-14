@@ -5,3 +5,4 @@ color
 vibrate
 kkkkkk
 dddddddd
+payment
