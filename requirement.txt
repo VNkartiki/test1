@@ -4,3 +4,4 @@ type option
 color
 vibrate
 kkkkkk
+dddddddd
